@@ -18,7 +18,7 @@ This repository aims to catalog and educate users about various smart contract a
 
 The repository covers a wide range of smart contract attacks, including but not limited to:
 
-- [Reentrancy Attacks][https://github.com/kasrazarei39/Smart-Contracts-Attacks/tree/main/Reentrancy]
+- [Reentrancy Attacks](https://github.com/kasrazarei39/Smart-Contracts-Attacks/tree/main/Reentrancy)
 
 ## Contributing
 
