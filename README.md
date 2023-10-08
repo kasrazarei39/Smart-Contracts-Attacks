@@ -20,6 +20,7 @@ The repository covers a wide range of smart contract attacks, including but not 
 
 - [Reentrancy Attacks](https://github.com/kasrazarei39/Smart-Contracts-Attacks/tree/main/Reentrancy)
 - [Accessing Private Data](https://github.com/kasrazarei39/Smart-Contracts-Attacks/tree/main/Accessing%20Private%20Data)
+- [Self Destruct](https://github.com/kasrazarei39/Smart-Contracts-Attacks/tree/main/Self%20Destruct)
 
 ## Contributing
 
